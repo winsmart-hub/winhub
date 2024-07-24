@@ -1,0 +1,12 @@
+@media (max-width: 767px){
+    .features-list{
+        margin-left: 0px;
+        margin-top: -20px;
+    }
+    .front {
+        background-position: left;
+    }
+    .slick-prev, .slick-next{
+        display: none;
+    }
+}
